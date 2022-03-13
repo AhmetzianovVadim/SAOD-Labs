@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Laba 13\Source.cpp(102,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Laba 13.vcxproj -> D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Laba 13\Debug\Laba 13.exe

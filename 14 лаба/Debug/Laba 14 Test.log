@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Laba 14 Test\Source.cpp(139,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Laba 14 Test\Source.cpp(243,26): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Laba 14 Test\Source.cpp(283,22): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Laba 14 Test.vcxproj -> D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Laba 14 Test\Debug\Laba 14 Test.exe

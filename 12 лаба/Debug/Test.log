@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Test\Source.cpp(158,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Test\Source.cpp(264): warning C4715: search: значение возвращается не при всех путях выполнения
+  Test.vcxproj -> D:\3. For study\2 курс\4 семестр\САОД\Лабы\Мои лабы\Test\Debug\Laba 12.exe
